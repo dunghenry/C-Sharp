@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>TranVanDung</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>TranVanDung</Authors>
+  </PropertyGroup>
+
+</Project>
